@@ -7,9 +7,12 @@ body {
     background-color: rgb(211, 162, 56);
   }
 
-  img {
+  img{
+    
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
-  }
+    width: 30%;
+    border: 10px;
+    border: 10px solid burlywood;
+}
