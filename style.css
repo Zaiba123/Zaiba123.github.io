@@ -1,6 +1,7 @@
-h1,h2 {
+h1,h2,h3 {
     color: aqua;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px; 
 }
 
 body {
@@ -14,5 +15,5 @@ body {
     margin-right: auto;
     width: 30%;
     border: 10px;
-    border: 10px solid burlywood;
+    border: 10px solid rgb(231, 213, 133);
 }
